@@ -1,0 +1,17 @@
+# LabVIEW local files
+*.aliases
+*.lvlps
+*.vip
+*.vipc
+*.lvlibp
+*.llb
+*.exe
+*.bak
+*~
+# Build output
+builds/
+Builds/
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/

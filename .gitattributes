@@ -1,0 +1,11 @@
+* text=auto
+*.vi binary
+*.vit binary
+*.ctl binary
+*.ctt binary
+*.lvlib binary
+*.lvclass binary
+*.lvlibp binary
+*.png binary
+*.lvproj text eol=crlf
+*.vipb text eol=crlf
