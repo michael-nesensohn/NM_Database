@@ -4,7 +4,7 @@
     <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\source</Library_Source_Folder>
-    <Library_Output_Folder>..\relase</Library_Output_Folder>
+    <Library_Output_Folder>..\release</Library_Output_Folder>
     <Company_Name>nesmic</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
