@@ -15,10 +15,13 @@
 		<Item Name="package" Type="Folder">
 			<Item Name="NM_Database.vipb" Type="Document" URL="../package/NM_Database.vipb"/>
 		</Item>
+		<Item Name="picture" Type="Folder">
+			<Item Name="software-sql-color-32.png" Type="Document" URL="../picture/software-sql-color-32.png"/>
+			<Item Name="software-sql-color-64.png" Type="Document" URL="../picture/software-sql-color-64.png"/>
+		</Item>
 		<Item Name="source" Type="Folder">
 			<Item Name="DB-Tool.lvlib" Type="Library" URL="../source/DB-Tool.lvlib"/>
 		</Item>
-		<Item Name="NESMIC_AppIcon_32.png" Type="Document" URL="../../NESMIC_AppIcon_32.png"/>
 		<Item Name="Abhängigkeiten" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Close Registry Key.vi"/>
